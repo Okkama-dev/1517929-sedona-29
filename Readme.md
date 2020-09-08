@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Vitaly Vlasov](https://up.htmlacademy.ru/htmlcss/29/user/1517929).
-* Наставник: `Неизвестно`.
+* Наставник: `Анастасия Ничипорчук{https://htmlacademy.ru/profile/id612797}`.
 
 ---
 
